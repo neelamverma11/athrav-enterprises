@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/Atharv-Enterprises/static/css/main.14d9670c.chunk.css",
+    "main.js": "/Atharv-Enterprises/static/js/main.fd1b3436.chunk.js",
+    "main.js.map": "/Atharv-Enterprises/static/js/main.fd1b3436.chunk.js.map",
+    "runtime-main.js": "/Atharv-Enterprises/static/js/runtime-main.e5843d77.js",
+    "runtime-main.js.map": "/Atharv-Enterprises/static/js/runtime-main.e5843d77.js.map",
+    "static/css/2.b9b989d7.chunk.css": "/Atharv-Enterprises/static/css/2.b9b989d7.chunk.css",
+    "static/js/2.ec885f1d.chunk.js": "/Atharv-Enterprises/static/js/2.ec885f1d.chunk.js",
+    "static/js/2.ec885f1d.chunk.js.map": "/Atharv-Enterprises/static/js/2.ec885f1d.chunk.js.map",
+    "index.html": "/Atharv-Enterprises/index.html",
+    "static/css/2.b9b989d7.chunk.css.map": "/Atharv-Enterprises/static/css/2.b9b989d7.chunk.css.map",
+    "static/css/main.14d9670c.chunk.css.map": "/Atharv-Enterprises/static/css/main.14d9670c.chunk.css.map",
+    "static/js/2.ec885f1d.chunk.js.LICENSE.txt": "/Atharv-Enterprises/static/js/2.ec885f1d.chunk.js.LICENSE.txt",
+    "static/media/boiler.c06575bf.jpg": "/Atharv-Enterprises/static/media/boiler.c06575bf.jpg",
+    "static/media/curd11.8bb67480.jpg": "/Atharv-Enterprises/static/media/curd11.8bb67480.jpg",
+    "static/media/curdcup.9fbd0f54.jpg": "/Atharv-Enterprises/static/media/curdcup.9fbd0f54.jpg",
+    "static/media/grinding.e3014515.jpg": "/Atharv-Enterprises/static/media/grinding.e3014515.jpg",
+    "static/media/milk&paneer.83714079.jpg": "/Atharv-Enterprises/static/media/milk&paneer.83714079.jpg",
+    "static/media/milk11.df1a6d14.jpg": "/Atharv-Enterprises/static/media/milk11.df1a6d14.jpg",
+    "static/media/nigari11.7642baba.jpg": "/Atharv-Enterprises/static/media/nigari11.7642baba.jpg",
+    "static/media/paneer press.08b6b450.jpg": "/Atharv-Enterprises/static/media/paneer press.08b6b450.jpg",
+    "static/media/paneer3.3cdec178.jpg": "/Atharv-Enterprises/static/media/paneer3.3cdec178.jpg",
+    "static/media/paneer4.4d7112a7.jpg": "/Atharv-Enterprises/static/media/paneer4.4d7112a7.jpg",
+    "static/media/pouch.aaa406d2.jpg": "/Atharv-Enterprises/static/media/pouch.aaa406d2.jpg",
+    "static/media/soyabean11.4bc36317.jpg": "/Atharv-Enterprises/static/media/soyabean11.4bc36317.jpg",
+    "static/media/tofu11.74f0a664.jpg": "/Atharv-Enterprises/static/media/tofu11.74f0a664.jpg",
+    "static/media/vaccum11.dce7a2d2.jpg": "/Atharv-Enterprises/static/media/vaccum11.dce7a2d2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5843d77.js",
+    "static/css/2.b9b989d7.chunk.css",
+    "static/js/2.ec885f1d.chunk.js",
+    "static/css/main.14d9670c.chunk.css",
+    "static/js/main.fd1b3436.chunk.js"
+  ]
+}
