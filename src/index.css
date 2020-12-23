@@ -9,7 +9,7 @@
 }
 
 .navbar {
-  background-color: rgba(59, 27, 5, 0.966);
+  /* background-color: rgba(7, 7, 7, 0.966); */
 }
 
 .navbar-brand {
@@ -97,7 +97,7 @@
   
 }
 .row img{
-  max-width: 100%;
+  max-width: 120%;
 }
 .card img{
   max-width: 100%;
